@@ -32,10 +32,10 @@ const Header = () => {
   };
   return (
     <>
-      <StyledTopHeaderDiv></StyledTopHeaderDiv>
+  
 
 
-      <Navbar className="navbar" bg="dark" variant="dark" sticky="top">
+      <Navbar className="navbar" bg="light" variant="light" sticky="top">
 
      <StyledTitle>
          <h4>包成家</h4>
@@ -95,7 +95,7 @@ const Header = () => {
 
 export default Header;
 const StyledTitle = styled.div`
-color:white;
+color:black;
 margin-right:10px;
 `;
 const StyledLogo = styled.div`
@@ -108,18 +108,19 @@ const StyledTopHeaderDiv = styled.div`
   height: 15px;
 `;
 const StyledUserStateDiv = styled.div`
-  display: flex;
+
+display: flex;
   padding: 2px;
-  color: white;
+  color: black;
   Button {
-    margin: 2px;
+    margin: 5px;
   }
   .user {
     line-height: 40px;
     margin-right: 10px;
+  
   }
   button{
     margin-top:8px;
   }
 `;
-

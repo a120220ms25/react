@@ -39,11 +39,15 @@ const StyledAreaCard = styled.div`
   margin: 8px auto;
   border-radius: 2px;
   margin-right: 20px;
+  // :hover {
+  //   background-color: #007bff;
+  //   border: #f3e96b;
+  //   font-size: 18px;
+  //   color: #f3e96b;
+  // }
   :hover {
     background-color: #007bff;
-    border: #f3e96b;
-    font-size: 18px;
-    color: #f3e96b;
+    color:white;
   }
 `;
 const StyledCardDiv = styled.div`

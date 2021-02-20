@@ -25,7 +25,7 @@ export default CardInfo;
 
 const StyledCard = styled.div`
   margin-top: 20px;
-  height: 600px;
+  height: 500px;
   background: rgba(0, 0, 0, 0.7);
   :hover {
     background: rgba(0, 0, 0, 0.6);

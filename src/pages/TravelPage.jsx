@@ -96,7 +96,7 @@ const StyledCard = styled.div`
 const StyledCardSection = styled.section`
   background-color: white;
   .title {
-    background-color: #f3e96b;
+    background-color: #ececec;
     height: 40px;
     font-size: 25px;
     line-height: 40px;

@@ -117,7 +117,7 @@ const SignupPage = () => {
           <StyledloginButton onClick={handleClick}>註冊</StyledloginButton>
         </div>
       </StyledinputBox>
-      <Footer></Footer>
+    
     </StyledSignupPage>
   );
 };
@@ -161,6 +161,7 @@ const StyledloginButton = styled.button`
 `;
 
 const StyledSignupPage = styled.div`
-  background: url("https://i2.kknews.cc/SIG=30i4alk/ctp-vzntr/ETHkKW1TI76CT1.jpg");
+  background: url("https://pic.52112.com/171201/Green_ombre_watercolor/2FnZ8g49xr.jpg");
   background-size: Cover;
+  height: 100vh;
 `;

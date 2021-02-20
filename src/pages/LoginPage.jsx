@@ -81,7 +81,7 @@ const LoginPage = () => {
           {/* </Link> */}
         </div>
       </StyledinputBox>
-      <Footer></Footer>
+     
     </StyledLoginPage>
   );
 };
@@ -126,6 +126,7 @@ const StyledloginButton = styled.button`
 `;
 
 const StyledLoginPage = styled.div`
-  background: url("https://i2.kknews.cc/SIG=30i4alk/ctp-vzntr/ETHkKW1TI76CT1.jpg");
+  background: url("https://photo.orsoon.com/171201/Green_ombre_watercolor/yDlM8F1aiN.jpg");
   background-size: Cover;
+  height: 100vh;
 `;
