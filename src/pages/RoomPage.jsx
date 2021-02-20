@@ -256,7 +256,9 @@ const StyledContainer = styled.div`
 `;
 
 const StyledRoomDiv = styled.div`
-  display: flex;
+
+padding:30px;
+display: flex;
   justify-content: center;
   margin: 60px auto;
   border-bottom: 1px solid #bbbbbb;
@@ -276,8 +278,8 @@ const StyledRoomDiv = styled.div`
     text-decoration: none;
     border: 1px solid #2ea3f2;
     border-radius: 30px;
-    padding: 15px;
-    font-size: 18px;
+    padding: 8px;
+    font-size: 15px;
   }
   a:hover {
     background-color: #ececec;
@@ -306,9 +308,8 @@ const StyledRoom4Div = styled.div`
     text-decoration: none;
     border: 1px solid #2ea3f2;
     border-radius: 30px;
-    padding: 15px;
-    font-size: 18px;
-  }
+    padding: 8px;
+    font-size: 15px;
   a:hover {
     background-color: #ececec;
     border: #ececec;

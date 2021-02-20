@@ -95,7 +95,7 @@ const StyledinputBox = styled.div`
   font-size: 25px;
   width: 500px;
   height: 450px;
-  border: 5px solid black;
+  border: 2px solid black;
   background-color: #fff;
 `;
 

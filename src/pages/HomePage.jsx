@@ -147,6 +147,7 @@ const StyledDescription = styled.div`
     margin-bottom: 50px;
     border: 1.5px solid black;
     border-radius: 5px;
+    
   }
   a {
     text-decoration: none;
@@ -170,6 +171,8 @@ const StyledTitle = styled.div`
   width: 150px;
   margin: auto;
   margin-bottom: 30px;
+  text-align:center;
+ 
 `;
 const StyledRoomDescription = styled.div`
   margin-right: 50px;
