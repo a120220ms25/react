@@ -134,7 +134,7 @@ const StyledSection = styled.section`
   background-color: #ececec;
 `;
 const StyledContainer = styled.div`
-  width: 60%;
+  width: 70%;
   margin: auto;
   display: flex;
   justify-content: left;

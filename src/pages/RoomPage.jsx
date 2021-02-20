@@ -292,6 +292,7 @@ const StyledRoom4Div = styled.div`
   display: flex;
   justify-content: center;
   margin: 60px auto;
+  margin-left:30px;
   img {
     width: 300px;
     height: 250px;
