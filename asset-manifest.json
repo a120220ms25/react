@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/a120220ms25/react.git/static/css/main.c940c927.chunk.css",
+    "main.js": "/a120220ms25/react.git/static/js/main.630e7f93.chunk.js",
+    "main.js.map": "/a120220ms25/react.git/static/js/main.630e7f93.chunk.js.map",
+    "runtime-main.js": "/a120220ms25/react.git/static/js/runtime-main.977783d5.js",
+    "runtime-main.js.map": "/a120220ms25/react.git/static/js/runtime-main.977783d5.js.map",
+    "static/js/2.2bdb736d.chunk.js": "/a120220ms25/react.git/static/js/2.2bdb736d.chunk.js",
+    "static/js/2.2bdb736d.chunk.js.map": "/a120220ms25/react.git/static/js/2.2bdb736d.chunk.js.map",
+    "static/js/3.4d7aed2f.chunk.js": "/a120220ms25/react.git/static/js/3.4d7aed2f.chunk.js",
+    "static/js/3.4d7aed2f.chunk.js.map": "/a120220ms25/react.git/static/js/3.4d7aed2f.chunk.js.map",
+    "index.html": "/a120220ms25/react.git/index.html",
+    "static/css/main.c940c927.chunk.css.map": "/a120220ms25/react.git/static/css/main.c940c927.chunk.css.map",
+    "static/js/2.2bdb736d.chunk.js.LICENSE.txt": "/a120220ms25/react.git/static/js/2.2bdb736d.chunk.js.LICENSE.txt",
+    "static/media/001.306c0fde.jpg": "/a120220ms25/react.git/static/media/001.306c0fde.jpg",
+    "static/media/001.ad83d167.jpg": "/a120220ms25/react.git/static/media/001.ad83d167.jpg",
+    "static/media/002.442b0f2b.jpg": "/a120220ms25/react.git/static/media/002.442b0f2b.jpg",
+    "static/media/003.7e98860a.jpg": "/a120220ms25/react.git/static/media/003.7e98860a.jpg",
+    "static/media/004.67f14c63.jpg": "/a120220ms25/react.git/static/media/004.67f14c63.jpg",
+    "static/media/1.c2d99849.jpg": "/a120220ms25/react.git/static/media/1.c2d99849.jpg",
+    "static/media/2.3f1215ba.jpg": "/a120220ms25/react.git/static/media/2.3f1215ba.jpg",
+    "static/media/3.ae0ab205.jpg": "/a120220ms25/react.git/static/media/3.ae0ab205.jpg",
+    "static/media/4.c173081c.jpg": "/a120220ms25/react.git/static/media/4.c173081c.jpg",
+    "static/media/5.e0597b65.jpg": "/a120220ms25/react.git/static/media/5.e0597b65.jpg",
+    "static/media/6.26bde4b5.jpg": "/a120220ms25/react.git/static/media/6.26bde4b5.jpg",
+    "static/media/about.d4d01b0d.jpg": "/a120220ms25/react.git/static/media/about.d4d01b0d.jpg",
+    "static/media/fb_logo.e046a259.png": "/a120220ms25/react.git/static/media/fb_logo.e046a259.png",
+    "static/media/logo.9c4439f9.jpg": "/a120220ms25/react.git/static/media/logo.9c4439f9.jpg",
+    "static/media/room1.b322d086.jpg": "/a120220ms25/react.git/static/media/room1.b322d086.jpg",
+    "static/media/room2.7b702f11.jpg": "/a120220ms25/react.git/static/media/room2.7b702f11.jpg",
+    "static/media/room3.205b5c8a.jpg": "/a120220ms25/react.git/static/media/room3.205b5c8a.jpg",
+    "static/media/room4.f34f5e4b.jpg": "/a120220ms25/react.git/static/media/room4.f34f5e4b.jpg",
+    "static/media/sun.55625182.jpg": "/a120220ms25/react.git/static/media/sun.55625182.jpg",
+    "static/media/user.e0cbef3c.png": "/a120220ms25/react.git/static/media/user.e0cbef3c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.977783d5.js",
+    "static/js/2.2bdb736d.chunk.js",
+    "static/css/main.c940c927.chunk.css",
+    "static/js/main.630e7f93.chunk.js"
+  ]
+}
