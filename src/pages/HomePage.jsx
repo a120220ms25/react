@@ -186,8 +186,8 @@ const StyledRoomDescription = styled.div`
     text-decoration: none;
     border: 1px solid #2ea3f2;
     border-radius: 30px;
-    padding: 15px;
-    font-size: 18px;
+    padding: 8px;
+    font-size: 15px;
   }
   a:hover {
     background-color: #ececec;
