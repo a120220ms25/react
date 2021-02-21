@@ -80,7 +80,7 @@ const HomePage = () => {
             <p>
               全館可住宿最多24位，公共空間提供交誼廳、簡易廚房、廚具、餐具、電晶爐、微波爐、熱水器、飲水機、洗衣機、投幣式烘衣機，住宿期間提供DIY早餐，全館提供免費無線網路。
             </p>
-            <a href="https://die4h.csb.app/room">看房型>>></a>
+            <a href="/room">看房型>>></a>
           </StyledRoomDescription>
 
           <img src={roomImg} alt="" height="250px" />
@@ -107,7 +107,7 @@ const HomePage = () => {
             <p>地址：台南市中西區海安路二段128巷38號 </p>
             <p>電話：(+886 ) 965 123 456</p>
             <p>Email：baoChengFamily@gmail.com</p>
-            <a href="https://die4h.csb.app/travel">看旅遊資訊>>></a>
+            <a href="/travel">看旅遊資訊>>></a>
           </StyledDescription>
         </StyledContainer>
       </StyledSection>

@@ -1,7 +1,7 @@
 import jwtDecode from "jwt-decode";
 import React, { useContext, useEffect, useState } from "react";
 import { Button, Dropdown, Nav, Navbar } from "react-bootstrap";
-import { Link, useHistory } from "react-router-dom";
+import { Link, useHistory,Route } from "react-router-dom";
 import styled from "styled-components";
 import AuthContext from "../contexts/AuthContext";
 import TokenContext from "../contexts/TokenContext";
@@ -54,7 +54,6 @@ const Header = () => {
           <Nav.Link href="/room">房型介紹</Nav.Link>
           <Nav.Link href="/travel">旅遊資訊</Nav.Link>
         </Nav>
-
         <StyledUserStateDiv>
           <div className="user">
             <Dropdown>
@@ -124,3 +123,4 @@ display: flex;
     margin-top:8px;
   }
 `;
+
